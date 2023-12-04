@@ -326,7 +326,7 @@ class BuyNowPage extends StatelessWidget {
 
 
             Text('Author:James McBride '),
-            Text('Description: James McBrides novel The Heaven & Earth Grocery Store follows a community as they work together to save a young deaf Black boy Dodofrom unjust institutionalization in 1930s America Though Dodos disability is physical the state authorities are determined to place him in a mental institution called Pennhurst'),
+            Text('Description: James McBrides novel The Heaven & Earth Grocery Store follows a community as they work together to save a young deaf Black boy Dodofrom unjust institutionalization in 1930s America Though Dodos disability is physical the state authorities are determined to place him in a mental institution called Pennhurst you can read this book for your own interest'),
             Text('Price: 1400 TK'),
             SizedBox(height: 16),
             Text(
