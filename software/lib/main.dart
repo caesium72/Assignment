@@ -297,6 +297,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 class BuyNowPage extends StatelessWidget {
+
   final String bookName;
 
   const BuyNowPage(this.bookName);
