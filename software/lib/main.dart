@@ -399,7 +399,7 @@ class BuyNowPage extends StatelessWidget {
 
             ),
             DropdownButton<String>(
-              items: ['bKash', 'Nagad', 'Rocket','VisaCard']
+              items: ['bKash', 'Nagad', 'Rocket','']
                   .map((String value) => DropdownMenuItem<String>(
                 value: value,
                 child: Text(value),
